@@ -19,7 +19,7 @@ Ein umfassender Gemini-Gem, der beim Programmieren mit **Google Apps Script** un
 
 1. https://gemini.google.com öffnen → links **„Gems entdecken“** → **„Neues Gem“**.
 2. **Name**: `Apps Script Architekt`
-3. **Anweisungen**: Den Inhalt von `01_GEM_ANWEISUNGEN.md` ab der Überschrift „ROLLE“ einfügen.
+3. **Anweisungen**: Den kompletten Inhalt von `01_GEM_ANWEISUNGEN.md` einfügen (reiner Text, direkt kopierbar).
 4. **Wissen**: Die 7 Dateien aus `wissen/` hochladen. Erlaubt sind maximal 10 Dateien, es bleiben also 3 Plätze frei, z. B. für eigene Projektdateien oder `GEMINI.md` aus dem Samples-Repo.
 5. Optional: Statt Upload die Dateien als Google Docs in Drive ablegen und über **„Drive“** verknüpfen. Dann kann man sie später aktualisieren, ohne den Gem neu zu bauen.
 6. **Speichern**. Für Code-Aufgaben am besten ein „Pro“- bzw. „Thinking“-Modell auswählen.
